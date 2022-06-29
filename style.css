@@ -1,0 +1,44 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.header{
+    width: 100%;
+    font-size: large;
+}
+
+
+.object_name_label
+{
+    font-weight: bold;
+    font-size: 15px;
+    color: azure;
+}
+
+canvas
+{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+}
+
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+#start_button_id
+{
+    margin-top: 10px;
+}
+
